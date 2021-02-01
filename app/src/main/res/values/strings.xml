@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidToastExample</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_label">Show message</string>
+    <string name="image_content">Image</string>
+    <string name="message">Ma premiere application abdroid</string>
+    <string name="text_box"></string>
+</resources>
